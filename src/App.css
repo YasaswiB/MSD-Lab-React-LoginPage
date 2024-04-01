@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.Header {
+  flex-direction:row ;;
+}
+
+
+.LoginContainer {
+  margin: 0 auto;
+  width: 300px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.photo{
+  width: 50px;
+  height: 50px;
+}
